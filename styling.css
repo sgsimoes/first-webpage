@@ -1,0 +1,19 @@
+body {
+    text-align: center; /* Center-align the content */
+}
+
+h1 { 
+    color: red; /*Set heading color to red */
+}
+
+h2 {
+    color: green; /* Set subheading color to green */
+}
+
+img { 
+    display: block; /* Make the image a block element */
+    margin: 0 auto; /* Center-align the image */
+    border: 2px solid blue; /* Add a blue border around the image */
+    height: 20%;
+    width: 20%;
+}
